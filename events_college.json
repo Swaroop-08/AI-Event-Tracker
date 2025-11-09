@@ -1,9 +1,86 @@
 [
     {
-        "name": "Understanding Data and Data Engineering",
-        "date": "2025-10-29",
-        "category": "Seminar",
-        "organizer": "VIT Pune",
-        "url": "https://www.meet.google.com/nvo-eaje-szk"
+        "title": "Machine Learning Fundamentals Workshop",
+        "description": "An intensive hands-on workshop covering core ML algorithms and Python libraries (Scikit-learn, Pandas). Perfect for beginners interested in AI and data analysis.",
+        "date": "2025-11-15",
+        "venue": "Science Hall, Room 305",
+        "url": "https://college-events.edu/ml-workshop"
+    },
+    {
+        "title": "Annual AI Hackathon: Generative Models",
+        "description": "A 48-hour coding marathon focused on building creative applications using large language models, Diffusion Models, and advanced Artificial Intelligence techniques.",
+        "date": "2026-01-25",
+        "venue": "Engineering Auditorium",
+        "url": "https://college-events.edu/hackathon-2026"
+    },
+    {
+        "title": "Data Visualization with Tableau Seminar",
+        "description": "Learn to transform raw data into insightful, compelling visual stories using Tableau Public and advanced charting techniques. Focus on data science communication.",
+        "date": "2026-02-15",
+        "venue": "Business School, Lecture Hall B",
+        "url": "https://college-events.edu/tableau-seminar"
+    },
+    {
+        "title": "Career Networking Night",
+        "description": "Meet representatives from top tech companies and alumni. Bring your professional resume and practice your elevator pitch! Essential for job seekers and career growth.",
+        "date": "2026-03-05",
+        "venue": "Student Union Ballroom",
+        "url": "https://college-events.edu/career-night"
+    },
+    {
+        "title": "Intro to Web Dev (React & Node.js)",
+        "description": "A crash course introducing modern full-stack web development using the MERN stack for building dynamic applications. Perfect for aspiring software developers.",
+        "date": "2026-03-18",
+        "venue": "Computer Lab 4",
+        "url": "https://college-events.edu/web-dev-intro"
+    },
+    {
+        "title": "Resume & Interview Skills Bootcamp",
+        "description": "A hands-on professional development session covering resume optimization, LinkedIn strategy, and mock interview practice for technical and non-technical roles. Boost your job prospects!",
+        "date": "2026-03-28",
+        "venue": "Career Services Center",
+        "url": "https://college-events.edu/resume-bootcamp"
+    },
+    {
+        "title": "Outdoor Movie Night: Sci-Fi Classics",
+        "description": "A relaxing social evening under the stars featuring classic science fiction films. Free popcorn and soft drinks provided. A great way to unwind and meet new friends.",
+        "date": "2026-04-10",
+        "venue": "Campus Lawn",
+        "url": "https://college-events.edu/movie-night"
+    },
+    {
+        "title": "Advanced Java and Spring Boot Seminar",
+        "description": "Deep dive into enterprise-level backend development using advanced Java features, Spring Boot framework, and microservices architecture. Focus on software engineering principles.",
+        "date": "2026-04-20",
+        "venue": "Engineering Hall, Room 101",
+        "url": "https://college-events.edu/java-spring"
+    },
+    {
+        "title": "Stress Buster: Puppy Play & Pizza",
+        "description": "A mental health and wellness event designed to reduce stress before final exams. Spend time with therapy dogs and enjoy free pizza. Focus on student wellbeing.",
+        "date": "2026-05-01",
+        "venue": "Student Center Lounge",
+        "url": "https://college-events.edu/stress-buster"
+    },
+    {
+        "title": "Competitive Coding Tournament (CP)",
+        "description": "Test your algorithms and data structures skills in a three-hour competitive programming event. Prizes for top solvers. Essential for Computer Science majors and CP enthusiasts.",
+        "date": "2026-05-15",
+        "venue": "Computer Lab 2 & 3",
+        "url": "https://college-events.edu/cp-tournament"
+    },
+    {
+        "title": "Introduction to Blockchain Technology",
+        "description": "A seminar covering the basics of decentralized ledgers, cryptocurrency, smart contracts, and web3 development. Explore the future of technology and finance.",
+        "date": "2026-05-25",
+        "venue": "Business School Auditorium",
+        "url": "https://college-events.edu/blockchain-intro"
+    },
+    {
+        "title": "Local Volunteer & Community Cleanup Day",
+        "description": "Join students and alumni to give back to the community by cleaning up the local park. A social event focused on public service and environmental awareness.",
+        "date": "2026-06-05",
+        "venue": "Local River Park (Meet at Campus Gate)",
+        "url": "https://college-events.edu/cleanup-day"
     }
 ]
